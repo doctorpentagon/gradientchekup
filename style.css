@@ -1,0 +1,25 @@
+body {
+    font: 'Raleway', 'san-serif';
+    background: linear-gradient(to right, #00ff00, #ff0000);
+    
+}
+
+input {text-align: center
+    ;}
+    
+h1 {text-transform: uppercase;
+    letter-spacing: .5em;
+    text-align: center;
+    width: 100%;
+    font-size: 2em;}
+
+h2 {text-transform: uppercase;
+        letter-spacing: .5em;
+        text-align: center;
+        width: 100%;
+        font-size: 1em;}
+
+p {letter-spacing: .5em;
+    text-align: center;
+    width: 100%;
+    font-size: 1em;}
